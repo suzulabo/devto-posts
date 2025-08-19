@@ -1,0 +1,5 @@
+{
+	"devDependencies": {
+		"@sinedied/devto-cli": "^1.4.0"
+	}
+}
