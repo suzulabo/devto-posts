@@ -82,7 +82,7 @@ async function processFile(filename: string) {
 
   console.log(`💾 Saved as ${newFilename}`);
 
-  await setTimeout(5000);
+  await setTimeout(60000);
 }
 
 async function main() {
