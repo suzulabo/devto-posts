@@ -1,10 +1,12 @@
 {
 	"scripts": {
-		"pull":"jiti tools/pull.ts"
+		"pull": "jiti tools/pull.ts",
+		"push": "jiti tools/push.ts"
 	},
 	"devDependencies": {
 		"@sinedied/devto-cli": "^1.4.0",
 		"@types/node": "^24.3.0",
+		"gray-matter": "^4.0.3",
 		"jiti": "^2.5.1",
 		"typescript": "^5.9.2"
 	}

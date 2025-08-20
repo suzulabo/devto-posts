@@ -14,6 +14,9 @@ importers:
       '@types/node':
         specifier: ^24.3.0
         version: 24.3.0
+      gray-matter:
+        specifier: ^4.0.3
+        version: 4.0.3
       jiti:
         specifier: ^2.5.1
         version: 2.5.1
